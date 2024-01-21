@@ -6,7 +6,9 @@ The project is done using HTML,CSS and Javascript.
 
 1)At first user need to provide the username. click the repositories button
 
-![image](https://github.com/Muralidhar-leo/Github-User-Repositories/assets/129084859/2b8f2123-a7b4-4def-a59b-4432e43d0003)
+
+![image](https://github.com/Muralidhar-leo/Github-User-Repositories/assets/129084859/78e5a9f0-3ec6-4f70-9333-8e020eac35e1)
+
 
 
 2)The User profile along with repositories are shown.
