@@ -1,0 +1,51 @@
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .container {
+    max-width: 900px;
+  }
+  
+  #profilePic {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .col-md-4 {
+    border-right: 1px solid #ddd;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .btn-primary {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .card-text {
+    color: #6c757d;
+  }
+  
+  .text-muted {
+    color: #6c757d;
+  }
+  .pagination-box.active {
+    background-color: #007bff;
+    color: white;
+    font-size: 14px;
+  }
+  
