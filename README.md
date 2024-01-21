@@ -11,4 +11,10 @@ The project is done using HTML,CSS and Javascript.
 
 2)The User profile along with repositories are shown.
 
+![image](https://github.com/Muralidhar-leo/Github-User-Repositories/assets/129084859/c84ee5b3-9a76-4efd-9e8a-60c0158d9394)
+
+
+Note: AS twitter is changes to X the Social accounts could not identify the provider as twitter so acceesing is not possible.
+
+
 
